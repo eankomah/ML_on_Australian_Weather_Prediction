@@ -29,5 +29,13 @@ Yes if the rain for that day was 1mm or more.
 - Temp3pm: Temperature (degrees C) at 3pm
 - RainToday: Yes, if precipitation(mm) in the 24 hours to 9am exceeds 1mm, otherwise No
 
-## Data Source
-The data used in this project was downloaded from the Kaggle dataset titled Rain in Australia, which itself was originally sourced from the Australian Bureau of Meteorology's Daily Weather Observations. Additional weather metrics for Australia can be found within the bureau's Climate Data Online web app.
+
+## Data Source with links
+Observations were drawn from numerous weather stations. The daily observations are available from http://www.bom.gov.au/climate/data.
+An example of latest weather observations in Canberra: http://www.bom.gov.au/climate/dwo/IDCJDW2801.latest.shtml
+
+Definitions adapted from http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
+
+Data source: http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data.
+
+Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
